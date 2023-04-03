@@ -7,7 +7,7 @@
 
 - :orange_book: Focusing on computer_vision & Robotics
 - :hammer: A student of Sun Yat-sen University
-- :ram: want to find a university
+- :ram: want to find a university for my master degree
 - :meat_on_bone: Meat lover
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Zyyxsth" /> </div>
