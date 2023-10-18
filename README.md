@@ -5,9 +5,9 @@
 
 ### 你好，欢迎来到我的空间 👋
 
-- :orange_book: Focusing on computer_vision & Robotics
+- :orange_book: Focusing on sleep
 - :hammer: A student of Sun Yat-sen University
-- :ram: want to find a university for my master degree
+- :ram: sleep
 - :meat_on_bone: Meat lover
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Zyyxsth" /> </div>
