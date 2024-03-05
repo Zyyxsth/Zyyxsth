@@ -6,7 +6,7 @@
 ### 你好，欢迎来到我的空间 👋
 
 - :orange_book: Focusing on sleep
-- :hammer: A student of Sun Yat-sen University
+- :hammer: A student
 - :ram: sleep
 - :meat_on_bone: Meat lover
 
